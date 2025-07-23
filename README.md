@@ -12,6 +12,20 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| Schengen-Expert | 2025-07-23 | https://github.com/plays6348/Schengen-Expert | exp | 已下载 |
+| expandtesting | 2025-07-23 | https://github.com/Xaxabor/expandtesting | exp | 已下载 |
+| html-css-js-experiments | 2025-07-23 | https://github.com/DeepakDevCraft/html-css-js-experiments | exp | 已下载 |
+| Express---URL-Shortener | 2025-07-23 | https://github.com/Nishant1195/Express---URL-Shortener | exp | 已下载 |
+| Explainable-cardiovascular-defect-and-disease-detection | 2025-07-23 | https://github.com/pallavi030/Explainable-cardiovascular-defect-and-disease-detection | exp | 已下载 |
+| wallet-history-exporter | 2025-07-23 | https://github.com/aygoyal/wallet-history-exporter | exp | 已下载 |
+| DVWA-Exploitation-Labs | 2025-07-23 | https://github.com/sakshichandekar/DVWA-Exploitation-Labs | exp | 已下载 |
+| H-P-Expense-Management-System-master | 2025-07-23 | https://github.com/Oscar-elly/H-P-Expense-Management-System-master | exp | 已下载 |
+| ds_experiment | 2025-07-23 | https://github.com/Yao0910/ds_experiment | exp | 已下载 |
+| poc-mason | 2025-07-23 | https://github.com/alDialloOP/poc-mason | poc | 已下载 |
+| product-lookup-poc | 2025-07-23 | https://github.com/ZAGENO/product-lookup-poc | poc | 已下载 |
+| pwa-poc | 2025-07-23 | https://github.com/saravanan6137/pwa-poc | poc | 已下载 |
+| usu-poc | 2025-07-23 | https://github.com/yksharmaGL/usu-poc | poc | 已下载 |
+| rcesc | 2025-07-23 | https://github.com/Texmexdex/rcesc | rce | 已下载 |
 | expense-management-system | 2025-07-23 | https://github.com/abhigawande20/expense-management-system | exp | 已下载 |
 | market-seasonality-explorer | 2025-07-23 | https://github.com/Manikanta-81/market-seasonality-explorer | exp | 已下载 |
 | MySathi-Expo | 2025-07-23 | https://github.com/akashmore-mysathi/MySathi-Expo | exp | 已下载 |
