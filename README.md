@@ -12,6 +12,16 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| expense-management-system | 2025-07-23 | https://github.com/abhigawande20/expense-management-system | exp | 已下载 |
+| market-seasonality-explorer | 2025-07-23 | https://github.com/Manikanta-81/market-seasonality-explorer | exp | 已下载 |
+| MySathi-Expo | 2025-07-23 | https://github.com/akashmore-mysathi/MySathi-Expo | exp | 已下载 |
+| expert-octo-chainsaw | 2025-07-23 | https://github.com/Datyai/expert-octo-chainsaw | exp | 已下载 |
+| jira-worklog-exporter | 2025-07-23 | https://github.com/therealmarton/jira-worklog-exporter | exp | 已下载 |
+| Expense-Tracker | 2025-07-23 | https://github.com/shreypatel2327/Expense-Tracker | exp | 已下载 |
+| Api-Expedientes | 2025-07-23 | https://github.com/leoalmada-dev/Api-Expedientes | exp | 已下载 |
+| expense-tracker | 2025-07-23 | https://github.com/yatikumawat/expense-tracker | exp | 已下载 |
+| Cloud-Classroom-PHP-1.0---Poc2 | 2025-07-23 | https://github.com/carlosalbertotuma/Cloud-Classroom-PHP-1.0---Poc2 | poc | 已下载 |
+| Brainfork-PoC | 2025-07-23 | https://github.com/n4mlz/Brainfork-PoC | poc | 已下载 |
 | homebrew-repository-export-cli | 2025-07-23 | https://github.com/raymonepping/homebrew-repository-export-cli | exp | 已下载 |
 | expense-tracker-cpp | 2025-07-23 | https://github.com/Vivek-Maheshwari-07/expense-tracker-cpp | exp | 已下载 |
 | git-tokens-exporter | 2025-07-23 | https://github.com/omar-triguii/git-tokens-exporter | exp | 已下载 |
