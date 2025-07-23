@@ -12,17 +12,16 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
-| Expressjs | 2025-07-23 | https://github.com/Abundance678-boop/Expressjs | exp | 已下载 |
-| tag-database-explorer | 2025-07-23 | https://github.com/Kigalaboratory/tag-database-explorer | exp | 已下载 |
-| Expense-management-system | 2025-07-23 | https://github.com/abhigawande20/Expense-management-system | exp | 已下载 |
-| Expense-Tracker | 2025-07-23 | https://github.com/sudhanshu03-developer/Expense-Tracker | exp | 已下载 |
-| Exp3_Css_Form | 2025-07-23 | https://github.com/neerajkasimalla/Exp3_Css_Form | exp | 已下载 |
-| exportr | 2025-07-23 | https://github.com/bravemaster3/exportr | exp | 已下载 |
-| Cloud-Classroom-PHP-1.0---Poc2 | 2025-07-23 | https://github.com/carlosalbertotuma/Cloud-Classroom-PHP-1.0---Poc2 | poc | 已下载 |
-| MEAN_CRUD_POC-server | 2025-07-23 | https://github.com/Prafulla-Patil/MEAN_CRUD_POC-server | poc | 已下载 |
+| MassExploit-CVE-2024-4577 | 2025-07-23 | https://github.com/CirqueiraDev/MassExploit-CVE-2024-4577 | exp | 已下载 |
+| expense-ansible-roles | 2025-07-23 | https://github.com/usha-ux/expense-ansible-roles | exp | 已下载 |
+| Expense-Tracker | 2025-07-23 | https://github.com/shreypatel2327/Expense-Tracker | exp | 已下载 |
+| market-seasonality-explorer | 2025-07-23 | https://github.com/Manikanta-81/market-seasonality-explorer | exp | 已下载 |
+| FedPocFlwrBase | 2025-07-23 | https://github.com/mwaleedkhan/FedPocFlwrBase | poc | 已下载 |
+| drosera-spike-poc | 2025-07-23 | https://github.com/EmilyMETH/drosera-spike-poc | poc | 已下载 |
 | openiddict-poc | 2025-07-23 | https://github.com/balubaburaj/openiddict-poc | poc | 已下载 |
-| poc_testcontainers | 2025-07-23 | https://github.com/mfbmina/poc_testcontainers | poc | 已下载 |
-| usu-poc | 2025-07-23 | https://github.com/yksharmaGL/usu-poc | poc | 已下载 |
+| android-doc.github.io | 2025-07-23 | https://github.com/android-doc/android-doc.github.io | poc | 已下载 |
+| FardhanPoccari.github.io | 2025-07-23 | https://github.com/FardhanPoccari/FardhanPoccari.github.io | poc | 已下载 |
+| Terraform-modules-POC | 2025-07-23 | https://github.com/sohampa/Terraform-modules-POC | poc | 已下载 |
 | tomcat-rce-lab | 2025-07-23 | https://github.com/Aadiel1/tomcat-rce-lab | rce | 已下载 |
 | CVE-2025-5777-TrendMicro-ApexCentral-RCE | 2025-07-23 | https://github.com/Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE | rce | 已下载 |
 | M4rcellymont | 2025-07-23 | https://github.com/M4rcellymont/M4rcellymont | rce | 已下载 |
