@@ -12,17 +12,17 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
-| Expression_Detection | 2025-07-23 | https://github.com/PRIME-BN1000/Expression_Detection | exp | 已下载 |
-| belajar-express | 2025-07-23 | https://github.com/mhmmdindrawan/belajar-express | exp | 已下载 |
-| ExpressJS-DeliveryApp | 2025-07-23 | https://github.com/sarakcw/ExpressJS-DeliveryApp | exp | 已下载 |
-| REVIEW-EXPERT-KG-PIPELINE | 2025-07-23 | https://github.com/ArunJena/REVIEW-EXPERT-KG-PIPELINE | exp | 已下载 |
-| Transformer-paper-explained | 2025-07-23 | https://github.com/eelaucan/Transformer-paper-explained | exp | 已下载 |
-| expense-tracker | 2025-07-23 | https://github.com/aminrzaei/expense-tracker | exp | 已下载 |
-| pocketknife-site | 2025-07-23 | https://github.com/jakerley/pocketknife-site | poc | 已下载 |
-| cross-chainriskframework.github.io | 2025-07-23 | https://github.com/cross-chainriskframework/cross-chainriskframework.github.io | poc | 已下载 |
+| Expressjs | 2025-07-23 | https://github.com/Abundance678-boop/Expressjs | exp | 已下载 |
+| tag-database-explorer | 2025-07-23 | https://github.com/Kigalaboratory/tag-database-explorer | exp | 已下载 |
+| Expense-management-system | 2025-07-23 | https://github.com/abhigawande20/Expense-management-system | exp | 已下载 |
+| Expense-Tracker | 2025-07-23 | https://github.com/sudhanshu03-developer/Expense-Tracker | exp | 已下载 |
+| Exp3_Css_Form | 2025-07-23 | https://github.com/neerajkasimalla/Exp3_Css_Form | exp | 已下载 |
+| exportr | 2025-07-23 | https://github.com/bravemaster3/exportr | exp | 已下载 |
 | Cloud-Classroom-PHP-1.0---Poc2 | 2025-07-23 | https://github.com/carlosalbertotuma/Cloud-Classroom-PHP-1.0---Poc2 | poc | 已下载 |
-| dapr-poc | 2025-07-23 | https://github.com/Isuama/dapr-poc | poc | 已下载 |
-| BoletoBradesco | 2025-07-23 | https://github.com/samoryfiotec/BoletoBradesco | poc | 已下载 |
+| MEAN_CRUD_POC-server | 2025-07-23 | https://github.com/Prafulla-Patil/MEAN_CRUD_POC-server | poc | 已下载 |
+| openiddict-poc | 2025-07-23 | https://github.com/balubaburaj/openiddict-poc | poc | 已下载 |
+| poc_testcontainers | 2025-07-23 | https://github.com/mfbmina/poc_testcontainers | poc | 已下载 |
+| usu-poc | 2025-07-23 | https://github.com/yksharmaGL/usu-poc | poc | 已下载 |
 | tomcat-rce-lab | 2025-07-23 | https://github.com/Aadiel1/tomcat-rce-lab | rce | 已下载 |
 | CVE-2025-5777-TrendMicro-ApexCentral-RCE | 2025-07-23 | https://github.com/Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE | rce | 已下载 |
 | M4rcellymont | 2025-07-23 | https://github.com/M4rcellymont/M4rcellymont | rce | 已下载 |
