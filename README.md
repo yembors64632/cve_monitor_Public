@@ -12,16 +12,19 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
-| MassExploit-CVE-2024-4577 | 2025-07-23 | https://github.com/CirqueiraDev/MassExploit-CVE-2024-4577 | exp | 已下载 |
-| expense-ansible-roles | 2025-07-23 | https://github.com/usha-ux/expense-ansible-roles | exp | 已下载 |
-| Expense-Tracker | 2025-07-23 | https://github.com/shreypatel2327/Expense-Tracker | exp | 已下载 |
-| market-seasonality-explorer | 2025-07-23 | https://github.com/Manikanta-81/market-seasonality-explorer | exp | 已下载 |
-| FedPocFlwrBase | 2025-07-23 | https://github.com/mwaleedkhan/FedPocFlwrBase | poc | 已下载 |
+| homebrew-repository-export-cli | 2025-07-23 | https://github.com/raymonepping/homebrew-repository-export-cli | exp | 已下载 |
+| expense-tracker-cpp | 2025-07-23 | https://github.com/Vivek-Maheshwari-07/expense-tracker-cpp | exp | 已下载 |
+| git-tokens-exporter | 2025-07-23 | https://github.com/omar-triguii/git-tokens-exporter | exp | 已下载 |
+| llm-providers-explorer | 2025-07-23 | https://github.com/sdesrozis/llm-providers-explorer | exp | 已下载 |
+| space-explorer | 2025-07-23 | https://github.com/pxD1311/space-explorer | exp | 已下载 |
+| form-validation-export | 2025-07-23 | https://github.com/next-forms-js/form-validation-export | exp | 已下载 |
 | drosera-spike-poc | 2025-07-23 | https://github.com/EmilyMETH/drosera-spike-poc | poc | 已下载 |
-| openiddict-poc | 2025-07-23 | https://github.com/balubaburaj/openiddict-poc | poc | 已下载 |
-| android-doc.github.io | 2025-07-23 | https://github.com/android-doc/android-doc.github.io | poc | 已下载 |
-| FardhanPoccari.github.io | 2025-07-23 | https://github.com/FardhanPoccari/FardhanPoccari.github.io | poc | 已下载 |
+| MEAN_CRUD_POC-server | 2025-07-23 | https://github.com/Prafulla-Patil/MEAN_CRUD_POC-server | poc | 已下载 |
+| poc | 2025-07-23 | https://github.com/Isuama/poc | poc | 已下载 |
+| sonar-poc-with-java | 2025-07-23 | https://github.com/Danphillipz/sonar-poc-with-java | poc | 已下载 |
 | Terraform-modules-POC | 2025-07-23 | https://github.com/sohampa/Terraform-modules-POC | poc | 已下载 |
+| pockettrocket-ExpenseTrakcer-backend_code | 2025-07-23 | https://github.com/dipanshu914/pockettrocket-ExpenseTrakcer-backend_code | poc | 已下载 |
+| chatbot-poc | 2025-07-23 | https://github.com/emraza-mhd/chatbot-poc | poc | 已下载 |
 | tomcat-rce-lab | 2025-07-23 | https://github.com/Aadiel1/tomcat-rce-lab | rce | 已下载 |
 | CVE-2025-5777-TrendMicro-ApexCentral-RCE | 2025-07-23 | https://github.com/Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE | rce | 已下载 |
 | M4rcellymont | 2025-07-23 | https://github.com/M4rcellymont/M4rcellymont | rce | 已下载 |
