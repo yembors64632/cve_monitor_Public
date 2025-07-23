@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-30397 | 2025-07-23 | https://github.com/B1ack4sh/Blackash-CVE-2025-30397 | 已下载 |
 | CVE-2025-53770 | 2025-07-23 | https://github.com/Hassanopop/CVE-2025-53770 | 已下载 |
 | CVE-2025-32756 | 2025-07-23 | https://github.com/shan0ar/cve-2025-32756 | 已下载 |
 | CVE-2025-5777 | 2025-07-23 | https://github.com/Shivshantp/CVE-2025-5777-TrendMicro-ApexCentral-RCE | 已下载 |
