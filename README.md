@@ -15,6 +15,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| DotNet-Deserialization-RCE | 2025-07-23 | https://github.com/Pegasus0xx/DotNet-Deserialization-RCE | rce | 已下载 |
 | CVE-2025-7766 | 2025-07-23 | https://github.com/byteReaper77/CVE-2025-7766 | rce | 已下载 |
 | CVE-2025-53770-SharePoint-RCE | 2025-07-23 | https://github.com/Kamal-Hegazi/CVE-2025-53770-SharePoint-RCE | rce | 已下载 |
 | M4rcellymont | 2025-07-23 | https://github.com/M4rcellymont/M4rcellymont | rce | 已下载 |
