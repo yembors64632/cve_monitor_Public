@@ -16,6 +16,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| RCE-SPHINX | 2025-07-24 | https://github.com/Rayaauy/RCE-SPHINX | rce | 已下载 |
 | CVE-2025-53770 | 2025-07-23 | https://github.com/exfil0/CVE-2025-53770 | rce | 已下载 |
 | DotNet-Deserialization-RCE | 2025-07-23 | https://github.com/Pegasus0xx/DotNet-Deserialization-RCE | rce | 已下载 |
 | CVE-2025-7766 | 2025-07-23 | https://github.com/byteReaper77/CVE-2025-7766 | rce | 已下载 |
