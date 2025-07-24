@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-31486 | 2025-07-24 | https://github.com/hackmelocal/hackmelocal-CVE-2025-31486-Simulation | 已下载 |
 | CVE-2025-6558 | 2025-07-24 | https://github.com/DevBuiHieu/CVE-2025-6558-Proof-Of-Concept | 已下载 |
 | CVE-2025-29927 | 2025-07-23 | https://github.com/Kamal-Hegazi/Next.js-Middleware-Exploit-CVE-2025-29927-Authorization-Bypass | 已下载 |
 | CVE-2025-50777 | 2025-07-23 | https://github.com/veereshgadige/aziot-cctv-cve-2025-50777 | 已下载 |
@@ -16,6 +17,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| turbotest_flc2htuj_rceakfbk | 2025-07-24 | https://github.com/turbocanary/turbotest_flc2htuj_rceakfbk | rce | 已下载 |
 | RCE-SPHINX | 2025-07-24 | https://github.com/Rayaauy/RCE-SPHINX | rce | 已下载 |
 | CVE-2025-53770 | 2025-07-23 | https://github.com/exfil0/CVE-2025-53770 | rce | 已下载 |
 | DotNet-Deserialization-RCE | 2025-07-23 | https://github.com/Pegasus0xx/DotNet-Deserialization-RCE | rce | 已下载 |
