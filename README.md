@@ -17,6 +17,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| .NET-Deserialization-RCE | 2025-07-24 | https://github.com/Pegasus0xx/.NET-Deserialization-RCE | rce | 已下载 |
 | rce | 2025-07-24 | https://github.com/saif7829/rce | rce | 已下载 |
 | bsin-app-scaffold | 2025-07-24 | https://github.com/s11e-dao/bsin-app-scaffold | 未授权 | 已下载 |
 | turbotest_flc2htuj_rceakfbk | 2025-07-24 | https://github.com/turbocanary/turbotest_flc2htuj_rceakfbk | rce | 已下载 |
