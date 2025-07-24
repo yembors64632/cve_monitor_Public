@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-6558 | 2025-07-24 | https://github.com/DevBuiHieu/CVE-2025-6558-Proof-Of-Concept | 已下载 |
 | CVE-2025-29927 | 2025-07-23 | https://github.com/Kamal-Hegazi/Next.js-Middleware-Exploit-CVE-2025-29927-Authorization-Bypass | 已下载 |
 | CVE-2025-50777 | 2025-07-23 | https://github.com/veereshgadige/aziot-cctv-cve-2025-50777 | 已下载 |
 | CVE-2025-30397 | 2025-07-23 | https://github.com/B1ack4sh/Blackash-CVE-2025-30397 | 已下载 |
