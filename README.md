@@ -17,6 +17,8 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| rce | 2025-07-24 | https://github.com/saif7829/rce | rce | 已下载 |
+| bsin-app-scaffold | 2025-07-24 | https://github.com/s11e-dao/bsin-app-scaffold | 未授权 | 已下载 |
 | turbotest_flc2htuj_rceakfbk | 2025-07-24 | https://github.com/turbocanary/turbotest_flc2htuj_rceakfbk | rce | 已下载 |
 | RCE-SPHINX | 2025-07-24 | https://github.com/Rayaauy/RCE-SPHINX | rce | 已下载 |
 | CVE-2025-53770 | 2025-07-23 | https://github.com/exfil0/CVE-2025-53770 | rce | 已下载 |
