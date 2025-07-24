@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-31511 | 2025-07-24 | https://github.com/pand0rausa/CVE-2025-31511_to_31513.md | 已下载 |
 | CVE-2025-1302 | 2025-07-24 | https://github.com/abrewer251/CVE-2025-1302_jsonpath-plus_RCE | 已下载 |
 | CVE-2025-31486 | 2025-07-24 | https://github.com/hackmelocal/hackmelocal-CVE-2025-31486-Simulation | 已下载 |
 | CVE-2025-6558 | 2025-07-24 | https://github.com/DevBuiHieu/CVE-2025-6558-Proof-Of-Concept | 已下载 |
