@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-1302 | 2025-07-24 | https://github.com/abrewer251/CVE-2025-1302_jsonpath-plus_RCE | 已下载 |
 | CVE-2025-31486 | 2025-07-24 | https://github.com/hackmelocal/hackmelocal-CVE-2025-31486-Simulation | 已下载 |
 | CVE-2025-6558 | 2025-07-24 | https://github.com/DevBuiHieu/CVE-2025-6558-Proof-Of-Concept | 已下载 |
 | CVE-2025-29927 | 2025-07-23 | https://github.com/Kamal-Hegazi/Next.js-Middleware-Exploit-CVE-2025-29927-Authorization-Bypass | 已下载 |
@@ -17,6 +18,8 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| CVE-2024-23346-exploit | 2025-07-24 | https://github.com/DAVIDAROCA27/CVE-2024-23346-exploit | rce | 已下载 |
+| CVE-2025-1302_jsonpath-plus_RCE | 2025-07-24 | https://github.com/abrewer251/CVE-2025-1302_jsonpath-plus_RCE | rce | 已下载 |
 | .NET-Deserialization-RCE | 2025-07-24 | https://github.com/Pegasus0xx/.NET-Deserialization-RCE | rce | 已下载 |
 | rce | 2025-07-24 | https://github.com/saif7829/rce | rce | 已下载 |
 | bsin-app-scaffold | 2025-07-24 | https://github.com/s11e-dao/bsin-app-scaffold | 未授权 | 已下载 |
