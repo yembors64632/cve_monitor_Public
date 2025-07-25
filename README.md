@@ -4,6 +4,8 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-48384 | 2025-07-25 | https://github.com/elprogramadorgt/CVE-2025-48384 | 已下载 |
+| CVE-2025-51411 | 2025-07-25 | https://github.com/tansique-17/CVE-2025-51411 | 已下载 |
 | CVE-2025-6018 | 2025-07-24 | https://github.com/ibrahmsql/CVE-2025-6018- | 已下载 |
 | CVE-2025-31511 | 2025-07-24 | https://github.com/pand0rausa/CVE-2025-31511_to_31513.md | 已下载 |
 | CVE-2025-1302 | 2025-07-24 | https://github.com/abrewer251/CVE-2025-1302_jsonpath-plus_RCE | 已下载 |
