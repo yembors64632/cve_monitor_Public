@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-52914 | 2025-07-25 | https://github.com/rxerium/CVE-2025-52914 | 已下载 |
 | CVE-2025-48384 | 2025-07-25 | https://github.com/elprogramadorgt/CVE-2025-48384 | 已下载 |
 | CVE-2025-51411 | 2025-07-25 | https://github.com/tansique-17/CVE-2025-51411 | 已下载 |
 | CVE-2025-6018 | 2025-07-24 | https://github.com/ibrahmsql/CVE-2025-6018- | 已下载 |
