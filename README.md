@@ -25,6 +25,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| RCEET-TECHS | 2025-07-25 | https://github.com/simplyMeister/RCEET-TECHS | rce | 已下载 |
 | EnvObfuscatorPS | 2025-07-25 | https://github.com/D1se0/EnvObfuscatorPS | rce | 已下载 |
 | mvn_pwn | 2025-07-25 | https://github.com/mbadanoiu/mvn_pwn | rce | 已下载 |
 | M4rce129.githup.io | 2025-07-24 | https://github.com/M4rce129/M4rce129.githup.io | rce | 已下载 |
