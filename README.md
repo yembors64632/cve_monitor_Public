@@ -22,6 +22,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| mvn_pwn | 2025-07-25 | https://github.com/mbadanoiu/mvn_pwn | rce | 已下载 |
 | M4rce129.githup.io | 2025-07-24 | https://github.com/M4rce129/M4rce129.githup.io | rce | 已下载 |
 | CVE-2024-23346-exploit | 2025-07-24 | https://github.com/DAVIDAROCA27/CVE-2024-23346-exploit | rce | 已下载 |
 | CVE-2025-1302_jsonpath-plus_RCE | 2025-07-24 | https://github.com/abrewer251/CVE-2025-1302_jsonpath-plus_RCE | rce | 已下载 |
