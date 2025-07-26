@@ -4,6 +4,8 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-50867 | 2025-07-26 | https://github.com/SacX-7/CVE-2025-50867 | 已下载 |
+| CVE-2025-34138 | 2025-07-26 | https://github.com/allinsthon/CVE-2025-34138 | 已下载 |
 | CVE-2025-32429 | 2025-07-25 | https://github.com/byteReaper77/CVE-2025-32429 | 已下载 |
 | CVE-2025-52399 | 2025-07-25 | https://github.com/BX199/CVE-2025-52399-SQLi-Institute-of-Current-Students | 已下载 |
 | CVE-2025-53652 | 2025-07-25 | https://github.com/pl4tyz/CVE-2025-53652-Jenkins-Git-Parameter-Analysis | 已下载 |
