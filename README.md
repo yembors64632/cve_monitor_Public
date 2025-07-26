@@ -26,6 +26,8 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| bricks-rce-writeup | 2025-07-26 | https://github.com/frankfm-labs/bricks-rce-writeup | rce | 已下载 |
+| SysAid-PreAuth-RCE-Chain | 2025-07-26 | https://github.com/0xgh057r3c0n/SysAid-PreAuth-RCE-Chain | rce | 已下载 |
 | bricks-rce | 2025-07-26 | https://github.com/frankfm-labs/bricks-rce | rce | 已下载 |
 | DorkBox | 2025-07-26 | https://github.com/kishwordulal1234/DorkBox | rce | 已下载 |
 | RCEET-TECHS | 2025-07-25 | https://github.com/simplyMeister/RCEET-TECHS | rce | 已下载 |
