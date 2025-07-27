@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-47812 | 2025-07-27 | https://github.com/r0otk3r/CVE-2025-47812 | 已下载 |
 | CVE-2025-6998 | 2025-07-27 | https://github.com/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS | 已下载 |
 | CVE-2025-7404 | 2025-07-27 | https://github.com/mind2hex/CVE-2025-7404-CalibreWeb-0.6.24-BlindCommandInjection | 已下载 |
 | CVE-2025-50867 | 2025-07-26 | https://github.com/SacX-7/CVE-2025-50867 | 已下载 |
@@ -30,6 +31,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| RCE-Swift | 2025-07-27 | https://github.com/slvignesh05/RCE-Swift | rce | 已下载 |
 | -SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE | 2025-07-27 | https://github.com/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE | rce | 已下载 |
 | Double-1 | 2025-07-27 | https://github.com/malik027/Double-1 | rce | 已下载 |
 | Unauthorized_VUL_GUI | 2025-07-27 | https://github.com/phoenix118go/Unauthorized_VUL_GUI | 未授权 | 已下载 |
