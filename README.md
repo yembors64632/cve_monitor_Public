@@ -31,6 +31,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| Zeek-Network-Forensics-TryHackMe-Investigations | 2025-07-27 | https://github.com/AhmS3cOps/Zeek-Network-Forensics-TryHackMe-Investigations | rce | 已下载 |
 | RCE-Swift | 2025-07-27 | https://github.com/slvignesh05/RCE-Swift | rce | 已下载 |
 | -SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE | 2025-07-27 | https://github.com/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE | rce | 已下载 |
 | Double-1 | 2025-07-27 | https://github.com/malik027/Double-1 | rce | 已下载 |
