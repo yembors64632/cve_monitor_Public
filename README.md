@@ -30,6 +30,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| Unauthorized_VUL_GUI | 2025-07-27 | https://github.com/phoenix118go/Unauthorized_VUL_GUI | 未授权 | 已下载 |
 | CG_RegisterItems-RCE-Patch | 2025-07-27 | https://github.com/Heaventh007/CG_RegisterItems-RCE-Patch | rce | 已下载 |
 | JeecgBoot_Scan | 2025-07-27 | https://github.com/TizzyKFC/JeecgBoot_Scan | rce | 已下载 |
 | VulnerableWebService | 2025-07-26 | https://github.com/pedrosilvaevangelista/VulnerableWebService | rce | 已下载 |
