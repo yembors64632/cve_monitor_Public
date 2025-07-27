@@ -30,6 +30,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| -SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE | 2025-07-27 | https://github.com/bossnick98/-SOC342---CVE-2025-53770-SharePoint-ToolShell-Auth-Bypass-and-RCE | rce | 已下载 |
 | Double-1 | 2025-07-27 | https://github.com/malik027/Double-1 | rce | 已下载 |
 | Unauthorized_VUL_GUI | 2025-07-27 | https://github.com/phoenix118go/Unauthorized_VUL_GUI | 未授权 | 已下载 |
 | CG_RegisterItems-RCE-Patch | 2025-07-27 | https://github.com/Heaventh007/CG_RegisterItems-RCE-Patch | rce | 已下载 |
