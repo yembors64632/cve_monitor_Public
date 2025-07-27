@@ -4,6 +4,8 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-6998 | 2025-07-27 | https://github.com/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS | 已下载 |
+| CVE-2025-7404 | 2025-07-27 | https://github.com/mind2hex/CVE-2025-7404-CalibreWeb-0.6.24-BlindCommandInjection | 已下载 |
 | CVE-2025-50867 | 2025-07-26 | https://github.com/SacX-7/CVE-2025-50867 | 已下载 |
 | CVE-2025-34138 | 2025-07-26 | https://github.com/allinsthon/CVE-2025-34138 | 已下载 |
 | CVE-2025-32429 | 2025-07-25 | https://github.com/byteReaper77/CVE-2025-32429 | 已下载 |
