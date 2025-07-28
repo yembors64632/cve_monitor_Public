@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-32462 | 2025-07-28 | https://github.com/j3r1ch0123/CVE-2025-32462 | 已下载 |
 | CVE-2025-2294 | 2025-07-28 | https://github.com/r0otk3r/CVE-2025-2294 | 已下载 |
 | CVE-2025-47812 | 2025-07-27 | https://github.com/r0otk3r/CVE-2025-47812 | 已下载 |
 | CVE-2025-6998 | 2025-07-27 | https://github.com/mind2hex/CVE-2025-6998-CalibreWeb-0.6.24-ReDoS | 已下载 |
