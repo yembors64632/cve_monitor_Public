@@ -33,6 +33,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| MagicAI | 2025-07-28 | https://github.com/Yucaerin/MagicAI | rce | 已下载 |
 | rpc-rce.py | 2025-07-28 | https://github.com/CSpanias/rpc-rce.py | rce | 已下载 |
 | Zeek-Network-Forensics-TryHackMe-Investigations | 2025-07-27 | https://github.com/AhmS3cOps/Zeek-Network-Forensics-TryHackMe-Investigations | rce | 已下载 |
 | RCE-Swift | 2025-07-27 | https://github.com/slvignesh05/RCE-Swift | rce | 已下载 |
