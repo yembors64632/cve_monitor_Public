@@ -4,6 +4,8 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-34077 | 2025-07-28 | https://github.com/0xgh057r3c0n/CVE-2025-34077 | 已下载 |
+| CVE-2025-24813 | 2025-07-28 | https://github.com/Shivshantp/CVE-2025-24813 | 已下载 |
 | CVE-2025-50866 | 2025-07-28 | https://github.com/SacX-7/CVE-2025-50866 | 已下载 |
 | CVE-2025-32462 | 2025-07-28 | https://github.com/j3r1ch0123/CVE-2025-32462 | 已下载 |
 | CVE-2025-2294 | 2025-07-28 | https://github.com/r0otk3r/CVE-2025-2294 | 已下载 |
@@ -34,6 +36,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| CVE-2025-24813 | 2025-07-28 | https://github.com/Shivshantp/CVE-2025-24813 | rce | 已下载 |
 | USPA_RCE_HHCAHPS | 2025-07-28 | https://github.com/BigFlemIPSOS/USPA_RCE_HHCAHPS | rce | 已下载 |
 | RCE-S | 2025-07-28 | https://github.com/slvignesh05/RCE-S | rce | 已下载 |
 | MagicAI | 2025-07-28 | https://github.com/Yucaerin/MagicAI | rce | 已下载 |
