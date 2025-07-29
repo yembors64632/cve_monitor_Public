@@ -36,6 +36,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| action-rce-demo | 2025-07-29 | https://github.com/admin1235689/action-rce-demo | rce | 已下载 |
 | Minecraft-RCE-Mod | 2025-07-29 | https://github.com/ShorterKing/Minecraft-RCE-Mod | rce | 已下载 |
 | action-rce-test | 2025-07-29 | https://github.com/admin1235689/action-rce-test | rce | 已下载 |
 | CVE-2025-24813 | 2025-07-28 | https://github.com/Shivshantp/CVE-2025-24813 | rce | 已下载 |
