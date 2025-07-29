@@ -39,6 +39,9 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| Audacious-3.8-3.9-AAC-Stack-Overflow-RCE | 2025-07-29 | https://github.com/hdbreaker/Audacious-3.8-3.9-AAC-Stack-Overflow-RCE | rce | 已下载 |
+| QQPlayer-3.9-Matroska-Heap-Overflow-RCE | 2025-07-29 | https://github.com/hdbreaker/QQPlayer-3.9-Matroska-Heap-Overflow-RCE | rce | 已下载 |
+| VLC-2.2.6-ActiveX-VOB-Stack-Overflow-RCE | 2025-07-29 | https://github.com/hdbreaker/VLC-2.2.6-ActiveX-VOB-Stack-Overflow-RCE | rce | 已下载 |
 | Minecraft-Server-RCE-Plugin | 2025-07-29 | https://github.com/ShorterKing/Minecraft-Server-RCE-Plugin | rce | 已下载 |
 | NPM-RCE | 2025-07-29 | https://github.com/Hun33er/NPM-RCE | rce | 已下载 |
 | dCm03RCe | 2025-07-29 | https://github.com/MetadataGitTesting/dCm03RCe | rce | 已下载 |
