@@ -38,6 +38,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| NPM-RCE | 2025-07-29 | https://github.com/Hun33er/NPM-RCE | rce | 已下载 |
 | dCm03RCe | 2025-07-29 | https://github.com/MetadataGitTesting/dCm03RCe | rce | 已下载 |
 | action-rce-demo | 2025-07-29 | https://github.com/admin1235689/action-rce-demo | rce | 已下载 |
 | Minecraft-RCE-Mod | 2025-07-29 | https://github.com/ShorterKing/Minecraft-RCE-Mod | rce | 已下载 |
