@@ -36,6 +36,8 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| Minecraft-RCE-Mod | 2025-07-29 | https://github.com/ShorterKing/Minecraft-RCE-Mod | rce | 已下载 |
+| action-rce-test | 2025-07-29 | https://github.com/admin1235689/action-rce-test | rce | 已下载 |
 | CVE-2025-24813 | 2025-07-28 | https://github.com/Shivshantp/CVE-2025-24813 | rce | 已下载 |
 | USPA_RCE_HHCAHPS | 2025-07-28 | https://github.com/BigFlemIPSOS/USPA_RCE_HHCAHPS | rce | 已下载 |
 | RCE-S | 2025-07-28 | https://github.com/slvignesh05/RCE-S | rce | 已下载 |
