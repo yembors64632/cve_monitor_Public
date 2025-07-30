@@ -42,6 +42,8 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| 2RCECM | 2025-07-30 | https://github.com/SLJME42/2RCECM | rce | 已下载 |
+| shortcut-related | 2025-07-30 | https://github.com/PorkneckRon/shortcut-related | 未授权 | 已下载 |
 | Detection-struts-cve-2017-5638-detector | 2025-07-30 | https://github.com/joidiego/Detection-struts-cve-2017-5638-detector | rce | 已下载 |
 | cyber-ctf-toolkit | 2025-07-30 | https://github.com/Jagf0511/cyber-ctf-toolkit | rce | 已下载 |
 | rce_build | 2025-07-29 | https://github.com/RbCheat/rce_build | rce | 已下载 |
