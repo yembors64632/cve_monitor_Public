@@ -41,6 +41,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| cyber-ctf-toolkit | 2025-07-30 | https://github.com/Jagf0511/cyber-ctf-toolkit | rce | 已下载 |
 | rce_build | 2025-07-29 | https://github.com/RbCheat/rce_build | rce | 已下载 |
 | Audacious-3.8-3.9-AAC-Stack-Overflow-RCE | 2025-07-29 | https://github.com/hdbreaker/Audacious-3.8-3.9-AAC-Stack-Overflow-RCE | rce | 已下载 |
 | QQPlayer-3.9-Matroska-Heap-Overflow-RCE | 2025-07-29 | https://github.com/hdbreaker/QQPlayer-3.9-Matroska-Heap-Overflow-RCE | rce | 已下载 |
