@@ -4,6 +4,10 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-29556 | 2025-07-30 | https://github.com/0xsu3ks/CVE-2025-29556 | 已下载 |
+| CVE-2025-29557 | 2025-07-30 | https://github.com/0xsu3ks/CVE-2025-29557 | 已下载 |
+| CVE-2025-45346 | 2025-07-30 | https://github.com/0xsu3ks/CVE-2025-45346 | 已下载 |
+| CVE-2025-27581 | 2025-07-30 | https://github.com/Henryisnotavailable/CVE-2025-27581 | 已下载 |
 | CVE-2025-29824 | 2025-07-30 | https://github.com/AfanPan/CVE-2025-29824-Exploit | 已下载 |
 | CVE-2025-50472 | 2025-07-30 | https://github.com/xhjy2020/CVE-2025-50472 | 已下载 |
 | CVE-2025-50460 | 2025-07-30 | https://github.com/Anchor0221/CVE-2025-50460 | 已下载 |
