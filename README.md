@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-29824 | 2025-07-30 | https://github.com/AfanPan/CVE-2025-29824-Exploit | 已下载 |
 | CVE-2025-50472 | 2025-07-30 | https://github.com/xhjy2020/CVE-2025-50472 | 已下载 |
 | CVE-2025-50460 | 2025-07-30 | https://github.com/Anchor0221/CVE-2025-50460 | 已下载 |
 | CVE-2025-52289 | 2025-07-29 | https://github.com/Madhav-Bhardwaj/CVE-2025-52289 | 已下载 |
@@ -41,6 +42,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| Detection-struts-cve-2017-5638-detector | 2025-07-30 | https://github.com/joidiego/Detection-struts-cve-2017-5638-detector | rce | 已下载 |
 | cyber-ctf-toolkit | 2025-07-30 | https://github.com/Jagf0511/cyber-ctf-toolkit | rce | 已下载 |
 | rce_build | 2025-07-29 | https://github.com/RbCheat/rce_build | rce | 已下载 |
 | Audacious-3.8-3.9-AAC-Stack-Overflow-RCE | 2025-07-29 | https://github.com/hdbreaker/Audacious-3.8-3.9-AAC-Stack-Overflow-RCE | rce | 已下载 |
