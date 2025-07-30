@@ -42,6 +42,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| RCEW-Project-Bank | 2025-07-30 | https://github.com/gunjan-creator/RCEW-Project-Bank | rce | 已下载 |
 | nZC7rceL | 2025-07-30 | https://github.com/MetadataGitTesting/nZC7rceL | rce | 已下载 |
 | rConfig_rce | 2025-07-30 | https://github.com/CSpanias/rConfig_rce | rce | 已下载 |
 | RCEW-project-bank | 2025-07-30 | https://github.com/gargikathait/RCEW-project-bank | rce | 已下载 |
