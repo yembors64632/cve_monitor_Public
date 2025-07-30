@@ -4,6 +4,8 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-50472 | 2025-07-30 | https://github.com/xhjy2020/CVE-2025-50472 | 已下载 |
+| CVE-2025-50460 | 2025-07-30 | https://github.com/Anchor0221/CVE-2025-50460 | 已下载 |
 | CVE-2025-52289 | 2025-07-29 | https://github.com/Madhav-Bhardwaj/CVE-2025-52289 | 已下载 |
 | CVE-2025-47227 | 2025-07-29 | https://github.com/B1ack4sh/Blackash-CVE-2025-47227 | 已下载 |
 | CVE-2025-32463 | 2025-07-29 | https://github.com/KaiHT-Ladiant/CVE-2025-32463 | 已下载 |
