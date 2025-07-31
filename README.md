@@ -4,6 +4,9 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-50340 | 2025-07-31 | https://github.com/millad7/SOGo_web_mail-vulnerability-CVE-2025-50340 | 已下载 |
+| CVE-2025-51482 | 2025-07-31 | https://github.com/Kai-One001/Letta-CVE-2025-51482-RCE | 已下载 |
+| CVE-2025-50754 | 2025-07-31 | https://github.com/furk4nyildiz/CVE-2025-50754-PoC | 已下载 |
 | CVE-2025-50341 | 2025-07-31 | https://github.com/millad7/Axelor-vulnerability-CVE-2025-50341 | 已下载 |
 | CVE-2025-29556 | 2025-07-30 | https://github.com/0xsu3ks/CVE-2025-29556 | 已下载 |
 | CVE-2025-29557 | 2025-07-30 | https://github.com/0xsu3ks/CVE-2025-29557 | 已下载 |
@@ -47,6 +50,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| Letta-CVE-2025-51482-RCE | 2025-07-31 | https://github.com/Kai-One001/Letta-CVE-2025-51482-RCE | rce | 已下载 |
 | rcew-final | 2025-07-31 | https://github.com/tamannayadav04/rcew-final | rce | 已下载 |
 | blogger-rcelltech | 2025-07-31 | https://github.com/ragaes-ui/blogger-rcelltech | rce | 已下载 |
 | RCEW-Project-Bank | 2025-07-30 | https://github.com/gunjan-creator/RCEW-Project-Bank | rce | 已下载 |
