@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-33073 | 2025-07-31 | https://github.com/matejsmycka/CVE-2025-33073-checker | 已下载 |
 | CVE-2025-50340 | 2025-07-31 | https://github.com/millad7/SOGo_web_mail-vulnerability-CVE-2025-50340 | 已下载 |
 | CVE-2025-51482 | 2025-07-31 | https://github.com/Kai-One001/Letta-CVE-2025-51482-RCE | 已下载 |
 | CVE-2025-50754 | 2025-07-31 | https://github.com/furk4nyildiz/CVE-2025-50754-PoC | 已下载 |
