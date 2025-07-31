@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-27591 | 2025-07-31 | https://github.com/Cythonic1/CVE-2025-27591 | 已下载 |
 | CVE-2025-33073 | 2025-07-31 | https://github.com/matejsmycka/CVE-2025-33073-checker | 已下载 |
 | CVE-2025-50340 | 2025-07-31 | https://github.com/millad7/SOGo_web_mail-vulnerability-CVE-2025-50340 | 已下载 |
 | CVE-2025-51482 | 2025-07-31 | https://github.com/Kai-One001/Letta-CVE-2025-51482-RCE | 已下载 |
@@ -51,6 +52,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| rce-fentes | 2025-07-31 | https://github.com/IsmaIkami/rce-fentes | rce | 已下载 |
 | CVE-2025-48384-Git-RCE-PoC | 2025-07-31 | https://github.com/won6c/CVE-2025-48384-Git-RCE-PoC | rce | 已下载 |
 | Letta-CVE-2025-51482-RCE | 2025-07-31 | https://github.com/Kai-One001/Letta-CVE-2025-51482-RCE | rce | 已下载 |
 | rcew-final | 2025-07-31 | https://github.com/tamannayadav04/rcew-final | rce | 已下载 |
