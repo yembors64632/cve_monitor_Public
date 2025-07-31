@@ -50,6 +50,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| CVE-2025-48384-Git-RCE-PoC | 2025-07-31 | https://github.com/won6c/CVE-2025-48384-Git-RCE-PoC | rce | 已下载 |
 | Letta-CVE-2025-51482-RCE | 2025-07-31 | https://github.com/Kai-One001/Letta-CVE-2025-51482-RCE | rce | 已下载 |
 | rcew-final | 2025-07-31 | https://github.com/tamannayadav04/rcew-final | rce | 已下载 |
 | blogger-rcelltech | 2025-07-31 | https://github.com/ragaes-ui/blogger-rcelltech | rce | 已下载 |
