@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-50341 | 2025-07-31 | https://github.com/millad7/Axelor-vulnerability-CVE-2025-50341 | 已下载 |
 | CVE-2025-29556 | 2025-07-30 | https://github.com/0xsu3ks/CVE-2025-29556 | 已下载 |
 | CVE-2025-29557 | 2025-07-30 | https://github.com/0xsu3ks/CVE-2025-29557 | 已下载 |
 | CVE-2025-45346 | 2025-07-30 | https://github.com/0xsu3ks/CVE-2025-45346 | 已下载 |
