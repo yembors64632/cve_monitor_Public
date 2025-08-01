@@ -62,6 +62,8 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| WEB2RCE | 2025-08-01 | https://github.com/AnvithLobo/WEB2RCE | rce | 已下载 |
+| jackson-rce-demo | 2025-08-01 | https://github.com/HalyneDiogo/jackson-rce-demo | rce | 已下载 |
 | Cslite | 2025-08-01 | https://github.com/XRSec/Cslite | 未授权 | 已下载 |
 | GarudRecon | 2025-08-01 | https://github.com/rix4uni/GarudRecon | rce | 已下载 |
 | cve-2017-12629 | 2025-08-01 | https://github.com/captain-woof/cve-2017-12629 | rce | 已下载 |
