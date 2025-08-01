@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-50422 | 2025-08-01 | https://github.com/Landw-hub/CVE-2025-50422 | 已下载 |
 | CVE-2025-50420 | 2025-08-01 | https://github.com/Landw-hub/CVE-2025-50420 | 已下载 |
 | CVE-2025-48703 | 2025-08-01 | https://github.com/itstarsec/CVE-2025-48703 | 已下载 |
 | CVE-2025-46206 | 2025-08-01 | https://github.com/Landw-hub/CVE-2025-46206 | 已下载 |
@@ -58,6 +59,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| RceiptRepo | 2025-08-01 | https://github.com/ikeike616/RceiptRepo | rce | 已下载 |
 | CVE-2025-48703 | 2025-08-01 | https://github.com/itstarsec/CVE-2025-48703 | rce | 已下载 |
 | wondercms350_rce | 2025-07-31 | https://github.com/thawphone/wondercms350_rce | rce | 已下载 |
 | rce-fentes | 2025-07-31 | https://github.com/IsmaIkami/rce-fentes | rce | 已下载 |
