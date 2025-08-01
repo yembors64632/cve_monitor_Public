@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-41373 | 2025-08-01 | https://github.com/byteReaper77/CVE-2025-41373 | 已下载 |
 | CVE-2025-20229 | 2025-08-01 | https://github.com/allinsthon/CVE-2025-20229 | 已下载 |
 | CVE-2025-46018 | 2025-08-01 | https://github.com/niranjangaire1995/CVE-2025-46018-CSC-Pay-Mobile-App-Payment-Authentication-Bypass | 已下载 |
 | CVE-2025-50422 | 2025-08-01 | https://github.com/Landw-hub/CVE-2025-50422 | 已下载 |
