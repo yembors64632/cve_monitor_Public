@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-20229 | 2025-08-01 | https://github.com/allinsthon/CVE-2025-20229 | 已下载 |
 | CVE-2025-46018 | 2025-08-01 | https://github.com/niranjangaire1995/CVE-2025-46018-CSC-Pay-Mobile-App-Payment-Authentication-Bypass | 已下载 |
 | CVE-2025-50422 | 2025-08-01 | https://github.com/Landw-hub/CVE-2025-50422 | 已下载 |
 | CVE-2025-50420 | 2025-08-01 | https://github.com/Landw-hub/CVE-2025-50420 | 已下载 |
@@ -60,6 +61,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| GarudRecon | 2025-08-01 | https://github.com/rix4uni/GarudRecon | rce | 已下载 |
 | cve-2017-12629 | 2025-08-01 | https://github.com/captain-woof/cve-2017-12629 | rce | 已下载 |
 | blacklist-iproute | 2025-08-01 | https://github.com/holywd/blacklist-iproute | sql注入 | 已下载 |
 | SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517 | 2025-08-01 | https://github.com/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517 | rce | 已下载 |
