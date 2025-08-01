@@ -59,6 +59,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517- | 2025-08-01 | https://github.com/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517- | rce | 已下载 |
 | shixi-proj | 2025-08-01 | https://github.com/zwang0621/shixi-proj | cnvd | 已下载 |
 | RceiptRepo | 2025-08-01 | https://github.com/ikeike616/RceiptRepo | rce | 已下载 |
 | CVE-2025-48703 | 2025-08-01 | https://github.com/itstarsec/CVE-2025-48703 | rce | 已下载 |
