@@ -61,6 +61,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| Cslite | 2025-08-01 | https://github.com/XRSec/Cslite | 未授权 | 已下载 |
 | GarudRecon | 2025-08-01 | https://github.com/rix4uni/GarudRecon | rce | 已下载 |
 | cve-2017-12629 | 2025-08-01 | https://github.com/captain-woof/cve-2017-12629 | rce | 已下载 |
 | blacklist-iproute | 2025-08-01 | https://github.com/holywd/blacklist-iproute | sql注入 | 已下载 |
