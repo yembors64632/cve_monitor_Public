@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-46018 | 2025-08-01 | https://github.com/niranjangaire1995/CVE-2025-46018-CSC-Pay-Mobile-App-Payment-Authentication-Bypass | 已下载 |
 | CVE-2025-50422 | 2025-08-01 | https://github.com/Landw-hub/CVE-2025-50422 | 已下载 |
 | CVE-2025-50420 | 2025-08-01 | https://github.com/Landw-hub/CVE-2025-50420 | 已下载 |
 | CVE-2025-48703 | 2025-08-01 | https://github.com/itstarsec/CVE-2025-48703 | 已下载 |
@@ -59,6 +60,9 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517 | 2025-08-01 | https://github.com/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517 | rce | 已下载 |
+| nacos_derby_rce | 2025-08-01 | https://github.com/Byxs20/nacos_derby_rce | rce | 已下载 |
+| redis-module-rce | 2025-08-01 | https://github.com/CSpanias/redis-module-rce | rce | 已下载 |
 | SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517- | 2025-08-01 | https://github.com/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517- | rce | 已下载 |
 | shixi-proj | 2025-08-01 | https://github.com/zwang0621/shixi-proj | cnvd | 已下载 |
 | RceiptRepo | 2025-08-01 | https://github.com/ikeike616/RceiptRepo | rce | 已下载 |
