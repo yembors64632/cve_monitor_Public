@@ -4,6 +4,8 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-48703 | 2025-08-01 | https://github.com/itstarsec/CVE-2025-48703 | 已下载 |
+| CVE-2025-46206 | 2025-08-01 | https://github.com/Landw-hub/CVE-2025-46206 | 已下载 |
 | CVE-2025-3969 | 2025-07-31 | https://github.com/Alif145/CVE-2025-3969-Exploit | 已下载 |
 | CVE-2025-30406 | 2025-07-31 | https://github.com/mchklt/CVE-2025-30406 | 已下载 |
 | CVE-2025-5394 | 2025-07-31 | https://github.com/fokda-prodz/CVE-2025-5394 | 已下载 |
@@ -55,6 +57,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| CVE-2025-48703 | 2025-08-01 | https://github.com/itstarsec/CVE-2025-48703 | rce | 已下载 |
 | wondercms350_rce | 2025-07-31 | https://github.com/thawphone/wondercms350_rce | rce | 已下载 |
 | rce-fentes | 2025-07-31 | https://github.com/IsmaIkami/rce-fentes | rce | 已下载 |
 | CVE-2025-48384-Git-RCE-PoC | 2025-07-31 | https://github.com/won6c/CVE-2025-48384-Git-RCE-PoC | rce | 已下载 |
