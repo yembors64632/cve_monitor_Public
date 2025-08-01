@@ -60,6 +60,8 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| cve-2017-12629 | 2025-08-01 | https://github.com/captain-woof/cve-2017-12629 | rce | 已下载 |
+| blacklist-iproute | 2025-08-01 | https://github.com/holywd/blacklist-iproute | sql注入 | 已下载 |
 | SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517 | 2025-08-01 | https://github.com/saadhassan77/SPIP-BigUp-Unauthenticated-RCE-Exploit-CVE-2024-8517 | rce | 已下载 |
 | nacos_derby_rce | 2025-08-01 | https://github.com/Byxs20/nacos_derby_rce | rce | 已下载 |
 | redis-module-rce | 2025-08-01 | https://github.com/CSpanias/redis-module-rce | rce | 已下载 |
