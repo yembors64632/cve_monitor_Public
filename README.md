@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-4606 | 2025-08-02 | https://github.com/Yucaerin/CVE-2025-4606 | 已下载 |
 | CVE-2025-34100 | 2025-08-02 | https://github.com/RyanJohnJames/CVE-2025-34100-demo | 已下载 |
 | CVE-2025-41373 | 2025-08-01 | https://github.com/byteReaper77/CVE-2025-41373 | 已下载 |
 | CVE-2025-20229 | 2025-08-01 | https://github.com/allinsthon/CVE-2025-20229 | 已下载 |
