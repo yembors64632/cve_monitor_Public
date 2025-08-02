@@ -65,6 +65,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| CVE-2025-24893-RCE-PoC | 2025-08-02 | https://github.com/Kai7788/CVE-2025-24893-RCE-PoC | rce | 已下载 |
 | Custom-RCE-Exploit-Builder | 2025-08-02 | https://github.com/Luka12-dev/Custom-RCE-Exploit-Builder | rce | 已下载 |
 | CVE-2025-53770-SharePoint-Deserialization-RCE-PoC | 2025-08-02 | https://github.com/harryhaxor/CVE-2025-53770-SharePoint-Deserialization-RCE-PoC | rce | 已下载 |
 | shibendan | 2025-08-02 | https://github.com/yiwenzc/shibendan | sql注入 | 已下载 |
