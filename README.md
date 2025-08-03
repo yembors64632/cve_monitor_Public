@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2024-32019 | 2025-08-03 | https://github.com/AliElKhatteb/CVE-2024-32019-POC | 已下载 |
 | CVE-2025-24893 | 2025-08-02 | https://github.com/nopgadget/CVE-2025-24893 | 已下载 |
 | CVE-2025-4606 | 2025-08-02 | https://github.com/Yucaerin/CVE-2025-4606 | 已下载 |
 | CVE-2025-34100 | 2025-08-02 | https://github.com/RyanJohnJames/CVE-2025-34100-demo | 已下载 |
