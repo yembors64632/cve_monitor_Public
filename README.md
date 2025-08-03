@@ -66,6 +66,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| CVE-2012-2982-Exploit-Script | 2025-08-03 | https://github.com/SincIDK/CVE-2012-2982-Exploit-Script | rce | 已下载 |
 | CVE-2025-24893 | 2025-08-03 | https://github.com/Infinit3i/CVE-2025-24893 | rce | 已下载 |
 | rce-scanner | 2025-08-03 | https://github.com/00x0kafyy/rce-scanner | rce | 已下载 |
 | vulnerable-webapp | 2025-08-03 | https://github.com/kouhei0/vulnerable-webapp | rce | 已下载 |
