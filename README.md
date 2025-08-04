@@ -67,6 +67,9 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| Um4RcepyNBSZIfN7 | 2025-08-04 | https://github.com/MetadataGitTesting/Um4RcepyNBSZIfN7 | rce | 已下载 |
+| RCE_builds | 2025-08-04 | https://github.com/Helpaur573/RCE_builds | rce | 已下载 |
+| CVE-2025-54424 | 2025-08-04 | https://github.com/Mr-xn/CVE-2025-54424 | rce | 已下载 |
 | fuzzRoutByDirectory | 2025-08-04 | https://github.com/sesmof/fuzzRoutByDirectory | 未授权 | 已下载 |
 | WCfTtAyiuRCe | 2025-08-04 | https://github.com/NotMakerWebSite/WCfTtAyiuRCe | rce | 已下载 |
 | RceeAttandance | 2025-08-04 | https://github.com/RamCharanTeja-22/RceeAttandance | rce | 已下载 |
