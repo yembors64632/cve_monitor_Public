@@ -69,6 +69,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC | 2025-08-04 | https://github.com/dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC | rce | 已下载 |
 | WordPress-HT-Contact-CVE-2025-7340-RCE | 2025-08-04 | https://github.com/Kai-One001/WordPress-HT-Contact-CVE-2025-7340-RCE | rce | 已下载 |
 | flask-debug-rce-lab | 2025-08-04 | https://github.com/CyberCTF/flask-debug-rce-lab | rce | 已下载 |
 | Um4RcepyNBSZIfN7 | 2025-08-04 | https://github.com/MetadataGitTesting/Um4RcepyNBSZIfN7 | rce | 已下载 |
@@ -166,6 +167,7 @@
 
 | 工具名称 | 更新时间 | 版本 | GitHub链接 |
 |----------|----------|------|------------|
+| fscan | 2025-08-04 | v2.0.1 | https://github.com/shadow1ng/fscan |
 | MDUT | 2023-09-22 | v2.1.1 | https://github.com/SafeGroceryStore/MDUT |
 | fscan | 2025-07-18 | v2.0.1 | https://github.com/shadow1ng/fscan |
 | Neo-reGeorg | 2025-02-18 | v5.2.1 | https://github.com/L-codes/Neo-reGeorg |
