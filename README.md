@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-7340 | 2025-08-04 | https://github.com/Kai-One001/WordPress-HT-Contact-CVE-2025-7340-RCE | 已下载 |
 | CVE-2025-51820 | 2025-08-04 | https://github.com/shk-mubashshir/CVE-2025-51820 | 已下载 |
 | CVE-2024-32019 | 2025-08-03 | https://github.com/AliElKhatteb/CVE-2024-32019-POC | 已下载 |
 | CVE-2025-24893 | 2025-08-02 | https://github.com/nopgadget/CVE-2025-24893 | 已下载 |
@@ -67,6 +68,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| WordPress-HT-Contact-CVE-2025-7340-RCE | 2025-08-04 | https://github.com/Kai-One001/WordPress-HT-Contact-CVE-2025-7340-RCE | rce | 已下载 |
 | flask-debug-rce-lab | 2025-08-04 | https://github.com/CyberCTF/flask-debug-rce-lab | rce | 已下载 |
 | Um4RcepyNBSZIfN7 | 2025-08-04 | https://github.com/MetadataGitTesting/Um4RcepyNBSZIfN7 | rce | 已下载 |
 | RCE_builds | 2025-08-04 | https://github.com/Helpaur573/RCE_builds | rce | 已下载 |
