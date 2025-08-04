@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-50592 | 2025-08-04 | https://github.com/1515601525/CVE-2025-50592 | 已下载 |
 | CVE-2025-7340 | 2025-08-04 | https://github.com/Kai-One001/WordPress-HT-Contact-CVE-2025-7340-RCE | 已下载 |
 | CVE-2025-51820 | 2025-08-04 | https://github.com/shk-mubashshir/CVE-2025-51820 | 已下载 |
 | CVE-2024-32019 | 2025-08-03 | https://github.com/AliElKhatteb/CVE-2024-32019-POC | 已下载 |
