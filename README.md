@@ -67,6 +67,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| fuzzRoutByDirectory | 2025-08-04 | https://github.com/sesmof/fuzzRoutByDirectory | 未授权 | 已下载 |
 | WCfTtAyiuRCe | 2025-08-04 | https://github.com/NotMakerWebSite/WCfTtAyiuRCe | rce | 已下载 |
 | RceeAttandance | 2025-08-04 | https://github.com/RamCharanTeja-22/RceeAttandance | rce | 已下载 |
 | CVE-2025-51820 | 2025-08-04 | https://github.com/shk-mubashshir/CVE-2025-51820 | rce | 已下载 |
