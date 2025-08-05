@@ -74,6 +74,7 @@
 |----------|----------|------------|--------|------|
 | RCedric | 2025-08-05 | https://github.com/R-Code-ux/RCedric | rce | 已下载 |
 | ZxNorRceEnvh | 2025-08-05 | https://github.com/NotMakerWebSite/ZxNorRceEnvh | rce | 已下载 |
+| cve-2025-24893-poc | 2025-08-05 | https://github.com/investigato/cve-2025-24893-poc | rce | 已下载 |
 | Attack-Suricata-Rules | 2025-08-05 | https://github.com/ajest983/Attack-Suricata-Rules | sql注入 | 已下载 |
 | XWorm-Exploit- | 2025-08-05 | https://github.com/ixe1ll/XWorm-Exploit- | rce | 已下载 |
 | CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC | 2025-08-04 | https://github.com/dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC | rce | 已下载 |
