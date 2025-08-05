@@ -5,6 +5,7 @@
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
 | CVE-2025-48799 | 2025-08-05 | https://github.com/painoob/CVE-2025-48799 | 已下载 |
+| CVE-2025-50675 | 2025-08-05 | https://github.com/LukeSec/CVE-2025-50675-GPMAW-Permissions | 已下载 |
 | CVE-2025-50286 | 2025-08-05 | https://github.com/binneko/CVE-2025-50286 | 已下载 |
 | CVE-2025-50592 | 2025-08-04 | https://github.com/1515601525/CVE-2025-50592 | 已下载 |
 | CVE-2025-7340 | 2025-08-04 | https://github.com/Kai-One001/WordPress-HT-Contact-CVE-2025-7340-RCE | 已下载 |
