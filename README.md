@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-48799 | 2025-08-05 | https://github.com/painoob/CVE-2025-48799 | 已下载 |
 | CVE-2025-50286 | 2025-08-05 | https://github.com/binneko/CVE-2025-50286 | 已下载 |
 | CVE-2025-50592 | 2025-08-04 | https://github.com/1515601525/CVE-2025-50592 | 已下载 |
 | CVE-2025-7340 | 2025-08-04 | https://github.com/Kai-One001/WordPress-HT-Contact-CVE-2025-7340-RCE | 已下载 |
@@ -72,6 +73,7 @@
 |----------|----------|------------|--------|------|
 | RCedric | 2025-08-05 | https://github.com/R-Code-ux/RCedric | rce | 已下载 |
 | ZxNorRceEnvh | 2025-08-05 | https://github.com/NotMakerWebSite/ZxNorRceEnvh | rce | 已下载 |
+| Attack-Suricata-Rules | 2025-08-05 | https://github.com/ajest983/Attack-Suricata-Rules | sql注入 | 已下载 |
 | XWorm-Exploit- | 2025-08-05 | https://github.com/ixe1ll/XWorm-Exploit- | rce | 已下载 |
 | CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC | 2025-08-04 | https://github.com/dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC | rce | 已下载 |
 | WordPress-HT-Contact-CVE-2025-7340-RCE | 2025-08-04 | https://github.com/Kai-One001/WordPress-HT-Contact-CVE-2025-7340-RCE | rce | 已下载 |
