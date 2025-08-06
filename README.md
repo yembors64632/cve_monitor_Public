@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-48621 | 2025-08-06 | https://github.com/Layer1-Artist/POC-CVE-2025-48621 | 已下载 |
 | CVE-2025-50286 | 2025-08-05 | https://github.com/binneko/CVE-2025-50286 | 已下载 |
 | CVE-2025-50592 | 2025-08-04 | https://github.com/1515601525/CVE-2025-50592 | 已下载 |
 | CVE-2025-7340 | 2025-08-04 | https://github.com/Kai-One001/WordPress-HT-Contact-CVE-2025-7340-RCE | 已下载 |
@@ -171,6 +172,8 @@
 
 | 工具名称 | 更新时间 | 版本 | GitHub链接 |
 |----------|----------|------|------------|
+| fscan | 2025-08-04 | v2.0.1 | https://github.com/shadow1ng/fscan |
+| Neo-reGeorg | 2025-08-05 | v5.2.1 | https://github.com/L-codes/Neo-reGeorg |
 | fscan | 2025-08-04 | v2.0.1 | https://github.com/shadow1ng/fscan |
 | Neo-reGeorg | 2025-08-05 | v5.2.1 | https://github.com/L-codes/Neo-reGeorg |
 | fscan | 2025-08-04 | v2.0.1 | https://github.com/shadow1ng/fscan |
