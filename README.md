@@ -70,6 +70,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| Rcew-university-project | 2025-08-06 | https://github.com/tanyagoyal945/Rcew-university-project | rce | 已下载 |
 | Upload-Arsenal | 2025-08-06 | https://github.com/marcelo1195/Upload-Arsenal | rce | 已下载 |
 | XWorm-Exploit- | 2025-08-05 | https://github.com/ixe1ll/XWorm-Exploit- | rce | 已下载 |
 | CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC | 2025-08-04 | https://github.com/dollarboysushil/CVE-2025-24893-XWiki-Unauthenticated-RCE-Exploit-POC | rce | 已下载 |
@@ -170,6 +171,8 @@
 
 | 工具名称 | 更新时间 | 版本 | GitHub链接 |
 |----------|----------|------|------------|
+| fscan | 2025-08-04 | v2.0.1 | https://github.com/shadow1ng/fscan |
+| Neo-reGeorg | 2025-08-05 | v5.2.1 | https://github.com/L-codes/Neo-reGeorg |
 | fscan | 2025-08-04 | v2.0.1 | https://github.com/shadow1ng/fscan |
 | Neo-reGeorg | 2025-08-05 | v5.2.1 | https://github.com/L-codes/Neo-reGeorg |
 | fscan | 2025-08-04 | v2.0.1 | https://github.com/shadow1ng/fscan |
