@@ -71,6 +71,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| CVE-2021-3544_RemoteMouse-3.008-RCE | 2025-08-06 | https://github.com/Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE | rce | 已下载 |
 | K8w2rceb | 2025-08-06 | https://github.com/MetadataGitTesting/K8w2rceb | rce | 已下载 |
 | CTF-Agent-T-THM | 2025-08-06 | https://github.com/dj-enk/CTF-Agent-T-THM | rce | 已下载 |
 | Rcew-university-project | 2025-08-06 | https://github.com/tanyagoyal945/Rcew-university-project | rce | 已下载 |
@@ -174,6 +175,8 @@
 
 | 工具名称 | 更新时间 | 版本 | GitHub链接 |
 |----------|----------|------|------------|
+| fscan | 2025-08-06 | v2.0.1 | https://github.com/shadow1ng/fscan |
+| Neo-reGeorg | 2025-08-05 | v5.2.1 | https://github.com/L-codes/Neo-reGeorg |
 | fscan | 2025-08-06 | v2.0.1 | https://github.com/shadow1ng/fscan |
 | Neo-reGeorg | 2025-08-05 | v5.2.1 | https://github.com/L-codes/Neo-reGeorg |
 | fscan | 2025-08-04 | v2.0.1 | https://github.com/shadow1ng/fscan |
