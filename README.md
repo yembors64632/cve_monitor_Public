@@ -182,6 +182,8 @@
 | fscan | 2025-08-04 | v2.0.1 | https://github.com/shadow1ng/fscan |
 | Neo-reGeorg | 2025-08-05 | v5.2.1 | https://github.com/L-codes/Neo-reGeorg |
 | fscan | 2025-08-04 | v2.0.1 | https://github.com/shadow1ng/fscan |
+| Neo-reGeorg | 2025-08-05 | v5.2.1 | https://github.com/L-codes/Neo-reGeorg |
+| fscan | 2025-08-04 | v2.0.1 | https://github.com/shadow1ng/fscan |
 | fscan | 2025-08-04 | v2.0.1 | https://github.com/shadow1ng/fscan |
 | fscan | 2025-08-04 | v2.0.1 | https://github.com/shadow1ng/fscan |
 | fscan | 2025-08-04 | v2.0.1 | https://github.com/shadow1ng/fscan |
