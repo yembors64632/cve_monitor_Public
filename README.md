@@ -72,6 +72,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| JomSoc-2.6-RCE | 2025-08-07 | https://github.com/xenux4life/JomSoc-2.6-RCE | rce | 已下载 |
 | rcescarpe.github.io | 2025-08-07 | https://github.com/rcescarpe/rcescarpe.github.io | rce | 已下载 |
 | rcescarpe | 2025-08-07 | https://github.com/rcescarpe/rcescarpe | rce | 已下载 |
 | githubActions-RCE | 2025-08-06 | https://github.com/retrymp3/githubActions-RCE | rce | 已下载 |
@@ -179,6 +180,8 @@
 
 | 工具名称 | 更新时间 | 版本 | GitHub链接 |
 |----------|----------|------|------------|
+| fscan | 2025-08-07 | v2.0.1 | https://github.com/shadow1ng/fscan |
+| Neo-reGeorg | 2025-08-05 | v5.2.1 | https://github.com/L-codes/Neo-reGeorg |
 | fscan | 2025-08-07 | v2.0.1 | https://github.com/shadow1ng/fscan |
 | Neo-reGeorg | 2025-08-05 | v5.2.1 | https://github.com/L-codes/Neo-reGeorg |
 | fscan | 2025-08-07 | v2.0.1 | https://github.com/shadow1ng/fscan |
