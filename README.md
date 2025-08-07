@@ -72,6 +72,8 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| qppszKqRceHt | 2025-08-07 | https://github.com/NotMakerWebSite/qppszKqRceHt | rce | 已下载 |
+| rCEYtDWU | 2025-08-07 | https://github.com/MetadataGitTesting/rCEYtDWU | rce | 已下载 |
 | rcelo-software.github.io | 2025-08-07 | https://github.com/rcelo-software/rcelo-software.github.io | rce | 已下载 |
 | CVE-2025-24893-XWiki-unauthenticated-RCE-via-SolrSearch | 2025-08-07 | https://github.com/IIIeJlyXaKapToIIIKu/CVE-2025-24893-XWiki-unauthenticated-RCE-via-SolrSearch | rce | 已下载 |
 | datastories.cultureelerfgoed.nl | 2025-08-07 | https://github.com/cultureelerfgoed/datastories.cultureelerfgoed.nl | rce | 已下载 |
