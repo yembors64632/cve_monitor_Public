@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-34152 | 2025-08-07 | https://github.com/Chocapikk/CVE-2025-34152 | 已下载 |
 | CVE-2025-4126 | 2025-08-07 | https://github.com/Slow-Mist/CVE-2025-4126 | 已下载 |
 | CVE-2025-48621 | 2025-08-06 | https://github.com/Layer1-Artist/POC-CVE-2025-48621 | 已下载 |
 | CVE-2025-50286 | 2025-08-05 | https://github.com/binneko/CVE-2025-50286 | 已下载 |
@@ -72,6 +73,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| CVE-2025-34152 | 2025-08-07 | https://github.com/Chocapikk/CVE-2025-34152 | rce | 已下载 |
 | qppszKqRceHt | 2025-08-07 | https://github.com/NotMakerWebSite/qppszKqRceHt | rce | 已下载 |
 | rCEYtDWU | 2025-08-07 | https://github.com/MetadataGitTesting/rCEYtDWU | rce | 已下载 |
 | rcelo-software.github.io | 2025-08-07 | https://github.com/rcelo-software/rcelo-software.github.io | rce | 已下载 |
