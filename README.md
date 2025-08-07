@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-4126 | 2025-08-07 | https://github.com/Slow-Mist/CVE-2025-4126 | 已下载 |
 | CVE-2025-48621 | 2025-08-06 | https://github.com/Layer1-Artist/POC-CVE-2025-48621 | 已下载 |
 | CVE-2025-50286 | 2025-08-05 | https://github.com/binneko/CVE-2025-50286 | 已下载 |
 | CVE-2025-50592 | 2025-08-04 | https://github.com/1515601525/CVE-2025-50592 | 已下载 |
@@ -71,6 +72,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| rcescarpe | 2025-08-07 | https://github.com/rcescarpe/rcescarpe | rce | 已下载 |
 | githubActions-RCE | 2025-08-06 | https://github.com/retrymp3/githubActions-RCE | rce | 已下载 |
 | CVE-2021-3544_RemoteMouse-3.008-RCE | 2025-08-06 | https://github.com/Goultarde/CVE-2021-3544_RemoteMouse-3.008-RCE | rce | 已下载 |
 | K8w2rceb | 2025-08-06 | https://github.com/MetadataGitTesting/K8w2rceb | rce | 已下载 |
@@ -176,6 +178,8 @@
 
 | 工具名称 | 更新时间 | 版本 | GitHub链接 |
 |----------|----------|------|------------|
+| fscan | 2025-08-07 | v2.0.1 | https://github.com/shadow1ng/fscan |
+| Neo-reGeorg | 2025-08-05 | v5.2.1 | https://github.com/L-codes/Neo-reGeorg |
 | fscan | 2025-08-06 | v2.0.1 | https://github.com/shadow1ng/fscan |
 | Neo-reGeorg | 2025-08-05 | v5.2.1 | https://github.com/L-codes/Neo-reGeorg |
 | fscan | 2025-08-06 | v2.0.1 | https://github.com/shadow1ng/fscan |
