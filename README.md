@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-6384 | 2025-08-08 | https://github.com/mbadanoiu/CVE-2025-6384 | 已下载 |
 | CVE-2025-31722 | 2025-08-08 | https://github.com/Nick6371/CVE-2025-31722 | 已下载 |
 | CVE-2025-24354 | 2025-08-08 | https://github.com/Admin9961/CVE-2025-24354-PoC | 已下载 |
 | CVE-2025-53786 | 2025-08-08 | https://github.com/barbaraeivyu/CVE-2025-53786 | 已下载 |
