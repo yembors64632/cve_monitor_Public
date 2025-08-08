@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-53786 | 2025-08-08 | https://github.com/barbaraeivyu/CVE-2025-53786 | 已下载 |
 | CVE-2025-22963 | 2025-08-08 | https://github.com/samplev45/CVE-2025-22963 | 已下载 |
 | CVE-2025-34152 | 2025-08-07 | https://github.com/Chocapikk/CVE-2025-34152 | 已下载 |
 | CVE-2025-4126 | 2025-08-07 | https://github.com/Slow-Mist/CVE-2025-4126 | 已下载 |
