@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-31722 | 2025-08-08 | https://github.com/Nick6371/CVE-2025-31722 | 已下载 |
 | CVE-2025-24354 | 2025-08-08 | https://github.com/Admin9961/CVE-2025-24354-PoC | 已下载 |
 | CVE-2025-53786 | 2025-08-08 | https://github.com/barbaraeivyu/CVE-2025-53786 | 已下载 |
 | CVE-2025-22963 | 2025-08-08 | https://github.com/samplev45/CVE-2025-22963 | 已下载 |
@@ -76,6 +77,8 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| RiCharEpoint | 2025-08-08 | https://github.com/UnHackerEnCapital/RiCharEpoint | rce | 已下载 |
+| defcon33-model-security-lab | 2025-08-08 | https://github.com/dsp-dr/defcon33-model-security-lab | rce | 已下载 |
 | RadiXX11-RCE-2 | 2025-08-08 | https://github.com/mefkureci/RadiXX11-RCE-2 | rce | 已下载 |
 | RadiXX11-RCE | 2025-08-08 | https://github.com/mefkureci/RadiXX11-RCE | rce | 已下载 |
 | CVE-2025-24893-XWiki-RCE | 2025-08-08 | https://github.com/Hex00-0x4/CVE-2025-24893-XWiki-RCE | rce | 已下载 |
