@@ -4,6 +4,7 @@
 
 | CVE编号 | 发现时间 | GitHub链接 | 状态 |
 |---------|----------|------------|------|
+| CVE-2025-21298 | 2025-08-09 | https://github.com/B1ack4sh/Blackash-CVE-2025-21298 | 已下载 |
 | CVE-2025-4404 | 2025-08-09 | https://github.com/Cyxow/CVE-2025-4404-POC | 已下载 |
 | CVE-2025-6384 | 2025-08-08 | https://github.com/mbadanoiu/CVE-2025-6384 | 已下载 |
 | CVE-2025-31722 | 2025-08-08 | https://github.com/Nick6371/CVE-2025-31722 | 已下载 |
@@ -79,6 +80,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| excelRcertificate | 2025-08-09 | https://github.com/kavya1203/excelRcertificate | rce | 已下载 |
 | FoxESS-RCE | 2025-08-09 | https://github.com/PLShadoV/FoxESS-RCE | rce | 已下载 |
 | rce_page_test | 2025-08-08 | https://github.com/LautaroIbanez/rce_page_test | rce | 已下载 |
 | RiCharEpoint | 2025-08-08 | https://github.com/UnHackerEnCapital/RiCharEpoint | rce | 已下载 |
