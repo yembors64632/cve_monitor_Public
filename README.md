@@ -79,6 +79,7 @@
 
 | 项目名称 | 发现时间 | GitHub链接 | 关键字 | 状态 |
 |----------|----------|------------|--------|------|
+| FoxESS-RCE | 2025-08-09 | https://github.com/PLShadoV/FoxESS-RCE | rce | 已下载 |
 | rce_page_test | 2025-08-08 | https://github.com/LautaroIbanez/rce_page_test | rce | 已下载 |
 | RiCharEpoint | 2025-08-08 | https://github.com/UnHackerEnCapital/RiCharEpoint | rce | 已下载 |
 | defcon33-model-security-lab | 2025-08-08 | https://github.com/dsp-dr/defcon33-model-security-lab | rce | 已下载 |
